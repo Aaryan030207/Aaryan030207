@@ -1,115 +1,46 @@
-# Hi 👋, I'm Aaryan Bohra
+# Hi, I'm Aaryan Bohra 👋
 
-🎓 **Computer Science Engineering Student**
-💻 **C++ | Python | DSA | Web Development**
-🚀 Building projects, solving problems, and continuously improving my software development skills.
+### Computer Science Engineering Student @ BMSCE
 
----
+I'm a 2nd-year Computer Science Engineering student at **BMS College of Engineering, Bengaluru**, currently focused on strengthening my programming fundamentals and building practical projects.
 
-## 👨‍💻 About Me
+### 🛠️ Currently Learning
 
-I'm a Computer Science Engineering student focused on building a strong foundation in **Data Structures & Algorithms, programming, and software development**.
+* **C++ & Data Structures and Algorithms**
+* **Python**
+* **SQL & DBMS**
+* **HTML & CSS**
+* **Java**
+* **Git & GitHub**
+* **Backend & Web Development**
 
-Currently, I'm:
+### 🚀 Projects
 
-* 🧠 Strengthening my **C++ and DSA** fundamentals
-* 🐍 Improving my **Python** skills
-* 🌐 Learning **Web Development & APIs**
-* 🗄️ Exploring **SQL and databases**
-* 🛠️ Building practical projects and hackathon prototypes
-* 🎯 Preparing for **software development internships**
+**Case Document Management System — SIH 2026**
+A team project focused on secure organization, management and retrieval of investigation-related documents.
 
-I believe in learning by **building, experimenting, and solving real problems**.
+**MediTrack**
+A web-based project focused on organizing and managing medication-related information.
 
----
+### 🎯 Current Goals
 
-## 🛠️ Tech Stack
+* Strengthen my DSA and problem-solving skills
+* Build practical software projects
+* Improve my backend and web development skills
+* Prepare for software engineering internships
 
-### Languages
+### 📚 Currently Working On
 
-`C++` `Python` `C`
+* C++ & DSA
+* LeetCode problem solving
+* Python projects
+* Web development
 
-### Currently Learning
+### 📫 Connect With Me
 
-`Data Structures & Algorithms` `SQL` `HTML` `CSS` `JavaScript`
-
-### Tools & Technologies
-
-`Git` `GitHub` `VS Code` `FastAPI` `Supabase`
-
----
-
-## 🚀 Projects
-
-### 🔹 Smart Case Document Management System
-
-A document-management concept designed for investigation workflows, focusing on secure document storage, organization, verification, and role-based access.
-
-**Focus:** Python • FastAPI • Jinja2 • Supabase • OCR • Document Management
-
-### 🔹 C++ DSA Practice
-
-A growing collection of my implementations and problem-solving practice while learning Data Structures & Algorithms in C++.
-
-**Topics:** Arrays • Strings • Searching • Sorting • Problem Solving
-
-### 🔹 More Projects Coming Soon...
-
-I'm continuously building and experimenting with new ideas as I expand my technical skills.
+* **LinkedIn:** [Aaryan Bohra](https://www.linkedin.com/in/aaryan-bohra-896008433/)
+* **GitHub:** [Aaryan030207](https://github.com/Aaryan030207)
 
 ---
 
-## 📚 Current Learning Journey
-
-```text
-C++ & DSA
-    ↓
-Problem Solving
-    ↓
-Python & SQL
-    ↓
-Web Development
-    ↓
-Backend & APIs
-    ↓
-Real-World Projects
-    ↓
-Software Development Internship
-```
-
----
-
-## 🎯 2026–27 Goals
-
-* Strengthen DSA and problem-solving
-* Build meaningful real-world projects
-* Improve backend development skills
-* Learn and use Git/GitHub effectively
-* Participate in hackathons and open-source projects
-* Prepare for software development internships
-
----
-
-## 📈 What You'll Find Here
-
-You'll find my journey through:
-
-💡 Projects
-🧩 DSA & problem solving
-🐍 Python experiments
-🌐 Web development
-🔧 Hackathon work
-📚 Learning resources & implementations
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with fellow developers, students, and people working on interesting technical projects.
-
-**LinkedIn:** Coming soon
-**Portfolio:** Coming soon
-
----
-
-⭐ *Learning. Building. Improving — one project at a time.*
+> **Always learning. Always building.**
